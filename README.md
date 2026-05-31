@@ -1,6 +1,6 @@
 # Built For Small Business
 
-Free all-in-one business management software for UK and Nigerian small businesses.
+Full-stack Laravel 12 SaaS — invoicing, payroll, expenses & financial reporting for UK and Nigerian SMEs
 
 **Invoicing · Expenses · Payroll · Client Management · P&L Reports**
 
